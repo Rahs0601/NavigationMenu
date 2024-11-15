@@ -1,1 +1,11 @@
+# List of dependencies
 streamlit
+streamlit_chat
+langchain_qdrant
+langchain_huggingface
+nltk
+pandas
+streamlit_lottie
+requests
+plotly
+openpyxl

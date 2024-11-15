@@ -4,7 +4,7 @@ class Config:
     COLLECTION_NAME = "fp_screens"
     EXCEL_PATH = r"./data/FP screens transformed.xlsx"
     MODEL_NAME = "Alibaba-NLP/gte-large-en-v1.5"
-    MODEL_CACHE = r"/home/devteam/models"
+    MODEL_CACHE = r"./models"
     LOTTIE_URL = "https://assets5.lottiefiles.com/packages/lf20_jcikwtux.json"
     ANIMATION_FILE = "animation.json"
     DB_PATH = r"./data/Programs.db"
